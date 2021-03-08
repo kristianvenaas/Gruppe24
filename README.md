@@ -1,3 +1,4 @@
+Elise Hodnefjell
 Andreas Lauvhjell
 Kristian Venaas
 Thomas Iversen
