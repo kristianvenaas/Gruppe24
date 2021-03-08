@@ -1,2 +1,3 @@
-Kristian Venaas
+
+Endring Kristian Venaas
 # Gruppe24
