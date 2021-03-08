@@ -1,1 +1,2 @@
+Kristian Venaas
 # Gruppe24
