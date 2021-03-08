@@ -1,3 +1,4 @@
 Kristian Venaas
 Thomas Iversen
+Jonathan Hofstein
 # Gruppe24
